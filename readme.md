@@ -13,3 +13,7 @@ go get github.com/ramadoiranedar/go-modules
 <!-- update dependency -->
 go get
 
+<!-- major upgrade -->
+major changes best practice is created a new package for example add in the last package name /v2 
+
+
