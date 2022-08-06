@@ -10,3 +10,6 @@ git push origin v1.0.0
 <!-- download that package to other module -->
 go get github.com/ramadoiranedar/go-modules
 
+<!-- update dependency -->
+go get
+
