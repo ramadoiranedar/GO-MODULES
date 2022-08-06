@@ -1,5 +1,5 @@
 package go_modules
 
-func GoModules() string {
-	return "Hello Go Modules Updated"
+func GoModules(str string) string {
+	return "Hello Go Modules Updated " + str
 }
